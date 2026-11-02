@@ -1,5 +1,7 @@
 # Plantilla de proyecto para Claude Code (Ctrl+IA)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 **Repositorio plantilla de GitHub**: pulsa «Use this template» para crear tu repo a partir de este, o copia los archivos en tu proyecto.
 
 Un proyecto listo para trabajar con Claude Code sin abrir agujeros: un `CLAUDE.md` corto, un `.claude/settings.json` con reglas allow, ask y deny y el modo bypass bloqueado, dos hooks (uno frena secretos, `rm -rf` amplios y push forzado a main; otro no deja terminar con los tests rotos), dos skills, un subagente revisor, un CI y un `.worktreeinclude`. Sin dependencias externas: Python 3 y git.
